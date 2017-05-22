@@ -15,6 +15,6 @@ JavaScript Learning Routine
 	<tr>
         <td>第一章，第二章</td>
         <td>星期一，一个小时</td>
-        <td></td>
+        <td>完成</td>
     </tr>
 </table>

@@ -12,9 +12,14 @@ JavaScript Learning Routine
     <tr>
         <td>学习内容</td><td>预定学习时间</td><td>实际学习时间</td>
     </tr>
-	<tr>
-        <td>第一章，第二章</td>
+    <tr>
+        <td>第一章</td>
         <td>星期一，一个小时</td>
+        <td>完成</td>
+    </tr>
+    <tr>
+        <td>第二章</td>
+        <td>星期二，一个小时</td>
         <td>完成</td>
     </tr>
 </table>
